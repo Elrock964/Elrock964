@@ -37,5 +37,4 @@ Each project has helped me grow as a programmer.
 ## 🎮 Hobbies
 
 - I enjoy learning to build and customize video games
-- Developing coding skills with Unity, Unreal Engine, and Roblox Studio
-- Developing 3D design and animation skills with Blender
+- Unity • Unreal Engine • Roblox Studio • Blender
