@@ -1,16 +1,41 @@
-## Hi there 👋
+## 💻 Curiosity Loading...  ██████████░░ 85%
 
-<!--
-**Elrock964/Elrock964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Elrock 😎
+*I go by Elrock online. My nickname is inspired by a family hiking adventure.*
 
-Here are some ideas to get you started:
+High school student preparing for a career in **Cybersecurity**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 My Journey
+
+🌱 Building programming and cybersecurity skills one project at a time.
+
+## 💻 Technical Skills
+
+**Programming**
+- Python
+- C#
+- Lua
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white) 
+
+**Web Development**
+- HTML/CSS
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+
+## 📚 Continuing Education
+
+🎓 Currently working on Google's *Crash Course on Python* on Coursera
+
+## 🚀 Projects
+
+Each project has helped me grow as a programmer.
+
+## 🎮 Hobbies
+
+- Enjoy learning to build and customize video games
+- Developing coding skills with Unity, Unreal Engine, and Roblox Studio
+- Developing 3D design and animation skills with Blender
