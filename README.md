@@ -1,7 +1,7 @@
 ## 💻 Curiosity Loading...  ██████████░░  85%
 
 ## Hi, I'm Elrock 😎
-*I go by Elrock online. My nickname is inspired by a family hiking adventure.*
+*I go by Elrock online.*
 
 High school student preparing for a career in **Cybersecurity**.
 
@@ -36,5 +36,5 @@ Each project has helped me grow as a programmer.
 
 ## 🎮 Hobbies
 
-- I enjoy learning to build and customize video games
+- Building and customizing video games
 - Unity • Unreal Engine • Roblox Studio • Blender
