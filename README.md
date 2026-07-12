@@ -1,4 +1,4 @@
-## 💻 Curiosity Loading...  ██████████░░ 85%
+## 💻 Curiosity Loading...  ██████████░░  85%
 
 ## Hi, I'm Elrock 😎
 *I go by Elrock online. My nickname is inspired by a family hiking adventure.*
