@@ -1,5 +1,3 @@
-## 💻 Curiosity Loading...  ██████████░░  85%
-
 ## Hi, I'm Elrock 😎
 
 High school student preparing for a career in **Cybersecurity**.
