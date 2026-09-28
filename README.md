@@ -29,7 +29,9 @@ High school student preparing for a career in **Cybersecurity**.
 
 ## 🚀 Projects
 
-Each project has helped me grow as a programmer.
+Each project has helped me build practical programming and cybersecurity skills.
+1. **[Password Generator](https://github.com/Elrock964/Python-Repo)** - Python tool for creating stronger randomized passwords.
+2. **[Password Attack Demonstration](https://github.com/Elrock964/Python-Repo)** - Python project demonstrating how password length and complexity affect the difficulty of guessing a password.
 
 ## 🎮 Hobbies
 
